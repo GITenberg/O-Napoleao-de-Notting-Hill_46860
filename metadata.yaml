@@ -1,4 +1,8 @@
 _repo: O-Napoleao-de-Notting-Hill_46860
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46860-h/images/cover.gif
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46860#O-Napoleao-de-Notting-Hill
 gutenberg_issued: '2014-09-15'
 gutenberg_type: Text
 identifiers:
